@@ -1,0 +1,11 @@
+########################
+#Visual Generated Files#
+########################
+
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
