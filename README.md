@@ -15,7 +15,7 @@ For study a algorithms, we use this git.
 
  ## TODO 
    Task #1 BJ (20170803~20170810)
-	No.1026 Tressure 
-	No.1057 Tournament
-	No.1099 Unknown Sentence
+	-No.1026 Tressure 
+	-No.1057 Tournament
+	-No.1099 Unknown Sentence
   
